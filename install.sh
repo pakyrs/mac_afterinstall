@@ -29,8 +29,7 @@ tree \
 wget \
 telnet \
 bpytop \
-
-—cask
+the-unarchiver \
 vivaldi \
 parsec \
 keepassxc \
