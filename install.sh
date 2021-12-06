@@ -26,12 +26,13 @@ brew install iperf3
 brew install mtr
 brew install mosh
 brew install pwgen
-brew install screen
 brew install telnet
 brew install tmux 
 brew install tree
 brew install btop
 brew install --cask keepassxc
+brew install --cask whatsapp
+brew install --cask iterm2
 brew install --cask Authy
 brew install --cask plex
 brew install --cask appcleaner
