@@ -30,6 +30,7 @@ brew install telnet
 brew install tmux 
 brew install tree
 brew install btop
+brew install yadm
 brew install --cask keepassxc
 brew install --cask whatsapp
 brew install --cask iterm2
