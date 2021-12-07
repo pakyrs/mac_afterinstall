@@ -48,6 +48,7 @@ brew install --cask the-unarchiver
 brew install --cask vlc
 brew install --cask microsoft-teams
 brew install --cask teamviewer
+brew install --cask anydesk
 brew install --cask calibre
 brew install --cask transmission
 brew install --cask gemini
