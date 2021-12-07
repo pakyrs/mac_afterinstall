@@ -61,7 +61,7 @@ brew install --cask obsidian
 brew install --cask deskreen
 brew install --cask transmission
 brew install --cask microsoft-remote-desktop
-
+#brew install --cask bluestacks
 
 # None:
 # pcloud
