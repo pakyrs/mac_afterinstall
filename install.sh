@@ -60,6 +60,7 @@ brew install --cask powershell
 brew install --cask obsidian
 brew install --cask deskreen
 brew install --cask transmission
+brew install --cask microsoft-remote-desktop
 
 
 # None:
