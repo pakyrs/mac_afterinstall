@@ -31,7 +31,9 @@ brew install tmux
 brew install tree
 brew install btop
 brew install yadm
+brew install speedtest-cli
 brew install --cask keepassxc
+brew install --cask bleachbit
 brew install --cask whatsapp
 brew install --cask iterm2
 brew install --cask Authy
