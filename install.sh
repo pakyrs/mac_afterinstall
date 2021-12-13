@@ -31,6 +31,7 @@ brew install tmux
 brew install tree
 brew install btop
 brew install yadm
+brew install cmatrix
 brew install speedtest-cli
 brew install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize suspicious-package apparency quicklookase qlvideo
 brew install --cask keepassxc
