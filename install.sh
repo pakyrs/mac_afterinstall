@@ -36,6 +36,7 @@ brew install --cask keepassxc
 brew install --cask bleachbit
 brew install --cask whatsapp
 brew install --cask iterm2
+brew install --cask tabby
 brew install --cask Authy
 brew install --cask plex
 brew install --cask appcleaner
