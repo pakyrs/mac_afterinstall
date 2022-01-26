@@ -14,6 +14,7 @@ brew install nmap
 brew install putty
 brew install tldr
 brew install gpg
+brew install inetutils
 brew install magic-wormhole
 brew install sshuttle
 brew install neofetch
