@@ -37,6 +37,7 @@ brew install cmatrix
 brew install speedtest-cli
 brew install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize suspicious-package apparency quicklookase qlvideo
 brew install pock
+brew install ncdu
 brew install --cask keepassxc
 brew install --cask bleachbit
 brew install --cask whatsapp
@@ -59,7 +60,7 @@ brew install --cask teamviewer
 brew install --cask anydesk
 brew install --cask calibre
 brew install --cask transmission
-brew install --cask gemini
+#brew install --cask gemini
 brew install --cask maccy
 brew install --cask powershell
 brew install --cask screens
