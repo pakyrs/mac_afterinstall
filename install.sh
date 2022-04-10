@@ -36,13 +36,14 @@ brew install yadm
 brew install cmatrix
 brew install speedtest-cli
 brew install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize suspicious-package apparency quicklookase qlvideo
+brew install pock
 brew install --cask keepassxc
 brew install --cask bleachbit
 brew install --cask whatsapp
 brew install --cask iterm2
-brew install --cask tabby
+#brew install --cask tabby
 brew install --cask Authy
-brew install --cask plex
+#brew install --cask plex
 brew install --cask appcleaner
 brew install --cask biscuit
 brew install --cask surfshark
@@ -53,7 +54,7 @@ brew install --cask android-file-transfer
 brew install --cask balenaetcher
 brew install --cask the-unarchiver
 brew install --cask vlc
-brew install --cask microsoft-teams
+#brew install --cask microsoft-teams
 brew install --cask teamviewer
 brew install --cask anydesk
 brew install --cask calibre
@@ -62,13 +63,15 @@ brew install --cask gemini
 brew install --cask maccy
 brew install --cask powershell
 brew install --cask screens
-brew install --cask wine-stable
+#brew install --cask wine-stable
 brew install --cask visual-studio-code
 brew install --cask powershell
 brew install --cask obsidian
-brew install --cask deskreen
+#brew install --cask deskreen
 brew install --cask transmission
 brew install --cask microsoft-remote-desktop
+brew install --cask anydesk
+brew install --cask teamviewer
 #brew install --cask bluestacks
 
 # None:
