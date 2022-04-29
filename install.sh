@@ -22,6 +22,7 @@ brew install matrix
 brew install curl
 brew install figlet
 brew install git
+brew install exa
 brew install htop
 brew install ipcalc
 brew install iperf3
@@ -63,6 +64,7 @@ brew install --cask visual-studio-code
 brew install --cask powershell
 brew install --cask obsidian
 brew install --cask transmission
+brew install --cask kitty
 brew install --cask microsoft-remote-desktop
 
 # None:
