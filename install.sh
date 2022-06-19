@@ -39,6 +39,7 @@ brew install speedtest-cli
 brew install pock
 brew install ncdu
 brew install watch
+brew install thefuck
 brew install --cask keepassxc
 brew install --cask bleachbit
 brew install --cask whatsapp
