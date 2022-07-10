@@ -69,6 +69,7 @@ brew install --cask obsidian
 brew install --cask transmission
 brew install --cask kitty
 brew install --cask microsoft-remote-desktop
+brew install --cask hiddenbar
 
 # None:
 # pcloud
