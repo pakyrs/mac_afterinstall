@@ -11,7 +11,6 @@ brew install pwgen
 brew install vim
 brew install wget
 brew install nmap
-brew install putty
 brew install tldr
 brew install gpg
 brew install openssl
@@ -39,14 +38,11 @@ brew install speedtest-cli
 brew install pock
 brew install ncdu
 brew install watch
-brew install thefuck
+brew install --cask flameshot
 brew install --cask keepassxc
 brew install --cask bleachbit
-brew install --cask whatsapp
 brew install --cask iterm2
-#brew install --cask tabby
 brew install --cask Authy
-#brew install --cask plex
 brew install --cask appcleaner
 brew install --cask biscuit
 brew install --cask surfshark
@@ -67,9 +63,7 @@ brew install --cask visual-studio-code
 brew install --cask powershell
 brew install --cask obsidian
 brew install --cask transmission
-brew install --cask kitty
 brew install --cask microsoft-remote-desktop
-brew install --cask hiddenbar
 
 # None:
 # pcloud
